@@ -1,0 +1,57 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 10px;
+    height: 100vh;
+
+}
+
+#heading{
+    height: 5rem;
+    width: 70rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    margin-left: 15rem;
+
+}
+
+.heading-text{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Playwrite GB S", cursive;
+}
+
+#project_container{
+    height:5rem;
+    width: 50rem;
+    background-color: rgb(195, 222, 222);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+
+}
+
+.project-content{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+
+}
+
+#addbtn{
+    height:2rem;
+    width:3rem;
+
+}
+
+#dropdownbtn{
+    height:2rem;
+    width:3rem;
+
+}
+
